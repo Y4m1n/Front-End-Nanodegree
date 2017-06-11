@@ -1,0 +1,17 @@
+header h1,
+header img {
+	display: inline-block;
+}
+
+#logo {
+	vertical-align: -25%;
+	width: 40px;
+	height: 40px;
+}
+
+p {
+	font-size: 26px;
+  line-height: 1.04167;
+  letter-spacing: .006em;
+  font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial", sans-serif;
+}

@@ -15,3 +15,8 @@ p {
   letter-spacing: .006em;
   font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial", sans-serif;
 }
+
+body {
+	background-image:url(https://s-media-cache-ak0.pinimg.com/originals/d8/58/a6/d858a6010741446e9a173a81acae2b7b.jpg);
+	background-size: cover;
+}
